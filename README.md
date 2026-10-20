@@ -1,2 +1,2 @@
 # Sectiune Parametri
-SERIAL_BAUD = 19200
+SERIAL_BAUD = 115200
