@@ -1,0 +1,1 @@
+# Sectiune Parametri
