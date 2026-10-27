@@ -1,2 +1,6 @@
-# Sectiune Parametri
-SERIAL_BAUD = 115200
+|Senzor|Interfață|Domeniu|
+|-|-|-|
+|TMP36|Analogic (A0)|-40°C .. +125°C|
+
+
+
